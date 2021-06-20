@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Graphik', 'Graphik Web', "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.875rem; line-height: 1.5; font-weight: 400;
+ color: #000; background-color: #fff;
+ display: -ms-flexbox; display: flex; -ms-flex-direction: column; flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
